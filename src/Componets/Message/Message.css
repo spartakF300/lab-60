@@ -1,0 +1,11 @@
+.message{
+    display: flex;
+    box-shadow: 6px 4px 6px 5px rgba(0,0,0,0.33);
+    padding: 5px 10px;
+    margin: 10px 0;
+    flex-direction: column;
+    background: azure;
+}
+.text{
+    background: yellowgreen;
+}

@@ -1,0 +1,15 @@
+.inpMess{
+    width: 35%;
+    height: 34px;
+    margin-top: 10px;
+    padding: 0 18px;
+}
+.inpAuthor{
+    margin-top: 10px;
+    width: 9%;
+    height: 34px;
+    padding: 0 18px;
+}
+.btn{
+    height: 38px;
+}
