@@ -1,7 +1,6 @@
 import React from 'react';
 import './Form.css'
 const Form = (props) => {
-    console.log('form');
     return (
         <div>
             <form onSubmit={props.post}>

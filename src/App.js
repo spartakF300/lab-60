@@ -51,7 +51,6 @@ class App extends Component {
     };
 
     render() {
-        console.log('ddd');
         return (
             <div className="App">
                 <Form

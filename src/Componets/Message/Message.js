@@ -7,7 +7,6 @@ class Message extends Component {
     }
 
     render() {
-console.log('mess');
         return (
             <div className="message">
                 <h3>Author: {this.props.name}</h3>
